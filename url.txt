@@ -2,4 +2,4 @@ Link Repository (GitHub):
 https://github.com/Luluputriaprilia/olist-insights-dashboard
 
 Link Aplikasi / Dashboard (Streamlit):
-https://olist-insights-dashboard-eccomerce.streamlit.app/
+https://olist-insights-dashboard-e-commerce.streamlit.app/
